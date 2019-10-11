@@ -111,7 +111,7 @@ Les champs prénom, nom et mail ont été renseignés sur le formulaire "Organis
 
 *Sélectionnez ici les mots-clés des compétences traitées dans vos formations courtes. Les utilisateurs de DigitalSkills recherchent des compétences sur des mots-clés précis, nous les avons listés par catégorie pour vous aider*
 
-Cette étape est longue mais essentielle pour un bon référencement de votre organisme. Merci de sélectionner uniquement les mots-clés traités dans vos formations courtes. Pour une visibilité générale des catégories recensées dans notre base, vous pouvez consulter cette page : [http://digitalskills.fr/competence](http://digitalskills.fr/competence)
+Cette étape est longue mais essentielle pour un bon référencement de votre organisme. Merci de sélectionner uniquement les mots-clés traités dans vos formations courtes. Pour une visibilité générale des catégories recensées dans notre base, vous pouvez consulter cette page : http://digitalskills.fr/competence
 
 Formation accessible à distance : cochez cette case si vous proposez des formations à distance. Ceci est un simple indicateur pour l’utilisateur.
 
@@ -156,9 +156,9 @@ Autres Autres organismes ou écoles associés : dans le cas d’une formation r
 *Sélectionnez ici le(s) métier(s) au(x)quel(s) prépare cette formation et les mots-clés des compétences acquises par les étudiants. Les entreprises recherchent des compétences sur des mots-clés précis, ils sont listés par catégorie pour vous aider*
 
 Métiers : préciser en s’appuyant sur le référentiel des métiers de l’OPIIEC les métiers visés par la formation : 
-[http://referentiels-metiers.opiiec.fr/page/1-cartographie-des-metiers-du-numerique](http://referentiels-metiers.opiiec.fr/page/1-cartographie-des-metiers-du-numerique)
+http://referentiels-metiers.opiiec.fr/page/1-cartographie-des-metiers-du-numerique
 
-Mots-clés : Cette étape est longue mais essentielle pour un bon référencement de votre formation. Merci de sélectionner uniquement les mots-clés traités. Pour une visibilité générale des catégories recensées dans notre base, vous pouvez consulter cette page : [http://digitalskills.fr/competence](http://digitalskills.fr/competence)
+Mots-clés : Cette étape est longue mais essentielle pour un bon référencement de votre formation. Merci de sélectionner uniquement les mots-clés traités. Pour une visibilité générale des catégories recensées dans notre base, vous pouvez consulter cette page : http://digitalskills.fr/competence
 
 Formation accessible par bloc de compétences : préciser si des blocs de cette formation sont accessibles en formations courtes
 
